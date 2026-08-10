@@ -41,11 +41,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/gurushetty18/LeetCode/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/gurushetty18/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/gurushetty18/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/gurushetty18/LeetCode/tree/master/0344-reverse-string) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/gurushetty18/LeetCode/tree/master/0001-two-sum) |
+| [0205-isomorphic-strings](https://github.com/gurushetty18/LeetCode/tree/master/0205-isomorphic-strings) |
 ## Stack
 |  |
 | ------- |
