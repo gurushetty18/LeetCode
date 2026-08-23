@@ -10,18 +10,17 @@ class Solution {
 		map.put('M', 1000);
         
         int res = 0 ;
-      
-        for(int i = s.length()-2 ; i >= 0 ; i--){
-           
-            if(map.get(s.charAt(i)) < map.get(s.charAt(i+1))){
-                res -= map.get(s.charAt(i));
+        int prev = 0 ;
+        for(int i = s.length()-1 ; i >= 0 ; i--){
+            int value = map.get(s.charAt(i)) ;
+            if(value < prev){
+                res -= value;
             }
             else{
-                res += map.get(s.charAt(i));
+                res += value;
             }
-           
+            prev = value ;
         }
-        res += map.get(s.charAt(s.length()-1));
         return res ;
     }
 }
