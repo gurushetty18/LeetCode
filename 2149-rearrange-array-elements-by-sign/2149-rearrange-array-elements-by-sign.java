@@ -1,5 +1,8 @@
 class Solution {
     public int[] rearrangeArray(int[] nums) {
+
+        if(nums.length <= 0) return new int[0];
+
         int n = nums.length;
         int[] arr = new int[n];
         int positive = 0 ; int negative = 1 ;
