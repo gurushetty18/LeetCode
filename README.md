@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/gurushetty18/LeetCode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/gurushetty18/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/gurushetty18/LeetCode/tree/master/0027-remove-element) |
+| [0055-jump-game](https://github.com/gurushetty18/LeetCode/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/gurushetty18/LeetCode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/gurushetty18/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/gurushetty18/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/gurushetty18/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0055-jump-game](https://github.com/gurushetty18/LeetCode/tree/master/0055-jump-game) |
 | [0877-stone-game](https://github.com/gurushetty18/LeetCode/tree/master/0877-stone-game) |
 ## Minimax
 |  |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/gurushetty18/LeetCode/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/gurushetty18/LeetCode/tree/master/0055-jump-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/gurushetty18/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Simulation
 |  |
