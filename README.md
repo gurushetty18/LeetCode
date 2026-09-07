@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/gurushetty18/LeetCode/tree/master/0055-jump-game) |
 | [0115-distinct-subsequences](https://github.com/gurushetty18/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0877-stone-game](https://github.com/gurushetty18/LeetCode/tree/master/0877-stone-game) |
+| [0940-distinct-subsequences-ii](https://github.com/gurushetty18/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 ## Minimax
 |  |
 | ------- |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/gurushetty18/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/gurushetty18/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/gurushetty18/LeetCode/tree/master/0344-reverse-string) |
+| [0940-distinct-subsequences-ii](https://github.com/gurushetty18/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 ## Hash Table
 |  |
 | ------- |
