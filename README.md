@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/gurushetty18/LeetCode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/gurushetty18/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/gurushetty18/LeetCode/tree/master/0268-missing-number) |
+| [0836-rectangle-overlap](https://github.com/gurushetty18/LeetCode/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/gurushetty18/LeetCode/tree/master/0877-stone-game) |
 | [3870-count-commas-in-range](https://github.com/gurushetty18/LeetCode/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/gurushetty18/LeetCode/tree/master/3871-count-commas-in-range-ii) |
@@ -193,4 +194,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/gurushetty18/LeetCode/tree/master/0070-climbing-stairs) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/gurushetty18/LeetCode/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
