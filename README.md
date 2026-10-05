@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/gurushetty18/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/gurushetty18/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/gurushetty18/LeetCode/tree/master/0344-reverse-string) |
+| [0551-student-attendance-record-i](https://github.com/gurushetty18/LeetCode/tree/master/0551-student-attendance-record-i) |
 | [0940-distinct-subsequences-ii](https://github.com/gurushetty18/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [1903-largest-odd-number-in-string](https://github.com/gurushetty18/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [2390-removing-stars-from-a-string](https://github.com/gurushetty18/LeetCode/tree/master/2390-removing-stars-from-a-string) |
