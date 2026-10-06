@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/gurushetty18/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/gurushetty18/LeetCode/tree/master/0344-reverse-string) |
 | [0551-student-attendance-record-i](https://github.com/gurushetty18/LeetCode/tree/master/0551-student-attendance-record-i) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/gurushetty18/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/gurushetty18/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [1903-largest-odd-number-in-string](https://github.com/gurushetty18/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [2390-removing-stars-from-a-string](https://github.com/gurushetty18/LeetCode/tree/master/2390-removing-stars-from-a-string) |
@@ -137,12 +138,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/gurushetty18/LeetCode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/gurushetty18/LeetCode/tree/master/0032-longest-valid-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/gurushetty18/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2390-removing-stars-from-a-string](https://github.com/gurushetty18/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/gurushetty18/LeetCode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/gurushetty18/LeetCode/tree/master/0032-longest-valid-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/gurushetty18/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Sorting
 |  |
 | ------- |
@@ -184,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/gurushetty18/LeetCode/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/gurushetty18/LeetCode/tree/master/0055-jump-game) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/gurushetty18/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1903-largest-odd-number-in-string](https://github.com/gurushetty18/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/gurushetty18/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Simulation
