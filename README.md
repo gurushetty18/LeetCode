@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/gurushetty18/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/gurushetty18/LeetCode/tree/master/0010-regular-expression-matching) |
+| [0022-generate-parentheses](https://github.com/gurushetty18/LeetCode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/gurushetty18/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0055-jump-game](https://github.com/gurushetty18/LeetCode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/gurushetty18/LeetCode/tree/master/0070-climbing-stairs) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/gurushetty18/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/gurushetty18/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/gurushetty18/LeetCode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/gurushetty18/LeetCode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/gurushetty18/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/gurushetty18/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/gurushetty18/LeetCode/tree/master/0115-distinct-subsequences) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/gurushetty18/LeetCode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/gurushetty18/LeetCode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/gurushetty18/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/gurushetty18/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Sorting
@@ -265,5 +268,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/gurushetty18/LeetCode/tree/master/0022-generate-parentheses) |
 | [0047-permutations-ii](https://github.com/gurushetty18/LeetCode/tree/master/0047-permutations-ii) |
 <!---LeetCode Topics End-->
