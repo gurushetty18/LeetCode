@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/gurushetty18/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/gurushetty18/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/gurushetty18/LeetCode/tree/master/0242-valid-anagram) |
+| [0301-remove-invalid-parentheses](https://github.com/gurushetty18/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/gurushetty18/LeetCode/tree/master/0344-reverse-string) |
 | [0551-student-attendance-record-i](https://github.com/gurushetty18/LeetCode/tree/master/0551-student-attendance-record-i) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/gurushetty18/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -270,4 +271,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/gurushetty18/LeetCode/tree/master/0022-generate-parentheses) |
 | [0047-permutations-ii](https://github.com/gurushetty18/LeetCode/tree/master/0047-permutations-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/gurushetty18/LeetCode/tree/master/0301-remove-invalid-parentheses) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0301-remove-invalid-parentheses](https://github.com/gurushetty18/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 <!---LeetCode Topics End-->
