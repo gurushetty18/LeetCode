@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/gurushetty18/LeetCode/tree/master/0877-stone-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/gurushetty18/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/gurushetty18/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/gurushetty18/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/gurushetty18/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3875-construct-uniform-parity-array-i](https://github.com/gurushetty18/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/gurushetty18/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/gurushetty18/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/gurushetty18/LeetCode/tree/master/0268-missing-number) |
 | [0525-contiguous-array](https://github.com/gurushetty18/LeetCode/tree/master/0525-contiguous-array) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/gurushetty18/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/gurushetty18/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Stack
 |  |
@@ -303,4 +305,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/gurushetty18/LeetCode/tree/master/0139-word-break) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/gurushetty18/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/gurushetty18/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
