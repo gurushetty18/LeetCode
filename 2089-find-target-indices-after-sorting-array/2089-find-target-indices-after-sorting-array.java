@@ -2,7 +2,7 @@ class Solution {
     public List<Integer> targetIndices(int[] nums, int target) {
      
         List<Integer> li = new ArrayList<>();
-Arrays.sort(nums);
+        Arrays.sort(nums);
         for(int num = 0 ; num < nums.length ; num++){
             if(nums[num] == target)
             {
