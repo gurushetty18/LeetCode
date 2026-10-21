@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/gurushetty18/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/gurushetty18/LeetCode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/gurushetty18/LeetCode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/gurushetty18/LeetCode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/gurushetty18/LeetCode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/gurushetty18/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/gurushetty18/LeetCode/tree/master/0268-missing-number) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/gurushetty18/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/gurushetty18/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/gurushetty18/LeetCode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/gurushetty18/LeetCode/tree/master/0067-add-binary) |
 | [0115-distinct-subsequences](https://github.com/gurushetty18/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/gurushetty18/LeetCode/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/gurushetty18/LeetCode/tree/master/0139-word-break) |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/gurushetty18/LeetCode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/gurushetty18/LeetCode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/gurushetty18/LeetCode/tree/master/0268-missing-number) |
 ## Sliding Window
@@ -227,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/gurushetty18/LeetCode/tree/master/0067-add-binary) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/gurushetty18/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2390-removing-stars-from-a-string](https://github.com/gurushetty18/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 ## Linked List
