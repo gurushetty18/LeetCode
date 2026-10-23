@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/gurushetty18/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0836-rectangle-overlap](https://github.com/gurushetty18/LeetCode/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/gurushetty18/LeetCode/tree/master/0877-stone-game) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/gurushetty18/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1360-number-of-days-between-two-dates](https://github.com/gurushetty18/LeetCode/tree/master/1360-number-of-days-between-two-dates) |
 | [1903-largest-odd-number-in-string](https://github.com/gurushetty18/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [2396-strictly-palindromic-number](https://github.com/gurushetty18/LeetCode/tree/master/2396-strictly-palindromic-number) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/gurushetty18/LeetCode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/gurushetty18/LeetCode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/gurushetty18/LeetCode/tree/master/0268-missing-number) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/gurushetty18/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Sliding Window
 |  |
 | ------- |
