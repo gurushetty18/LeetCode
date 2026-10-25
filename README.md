@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/gurushetty18/LeetCode/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/gurushetty18/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0766-toeplitz-matrix](https://github.com/gurushetty18/LeetCode/tree/master/0766-toeplitz-matrix) |
+| [0860-lemonade-change](https://github.com/gurushetty18/LeetCode/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/gurushetty18/LeetCode/tree/master/0877-stone-game) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/gurushetty18/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/gurushetty18/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/gurushetty18/LeetCode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/gurushetty18/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0680-valid-palindrome-ii](https://github.com/gurushetty18/LeetCode/tree/master/0680-valid-palindrome-ii) |
+| [0860-lemonade-change](https://github.com/gurushetty18/LeetCode/tree/master/0860-lemonade-change) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/gurushetty18/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1903-largest-odd-number-in-string](https://github.com/gurushetty18/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/gurushetty18/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
