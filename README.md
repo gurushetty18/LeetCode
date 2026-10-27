@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/gurushetty18/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/gurushetty18/LeetCode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/gurushetty18/LeetCode/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/gurushetty18/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/gurushetty18/LeetCode/tree/master/0268-missing-number) |
 | [0633-sum-of-square-numbers](https://github.com/gurushetty18/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0836-rectangle-overlap](https://github.com/gurushetty18/LeetCode/tree/master/0836-rectangle-overlap) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/gurushetty18/LeetCode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/gurushetty18/LeetCode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/gurushetty18/LeetCode/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/gurushetty18/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/gurushetty18/LeetCode/tree/master/0268-missing-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/gurushetty18/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Sliding Window
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/gurushetty18/LeetCode/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/gurushetty18/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/gurushetty18/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [0231-power-of-two](https://github.com/gurushetty18/LeetCode/tree/master/0231-power-of-two) |
 | [3483-unique-3-digit-even-numbers](https://github.com/gurushetty18/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Prefix Sum
 |  |
