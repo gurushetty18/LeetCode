@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/gurushetty18/LeetCode/tree/master/0139-word-break) |
 | [0164-maximum-gap](https://github.com/gurushetty18/LeetCode/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/gurushetty18/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/gurushetty18/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/gurushetty18/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/gurushetty18/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/gurushetty18/LeetCode/tree/master/0283-move-zeroes) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/gurushetty18/LeetCode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/gurushetty18/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0139-word-break](https://github.com/gurushetty18/LeetCode/tree/master/0139-word-break) |
+| [0169-majority-element](https://github.com/gurushetty18/LeetCode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/gurushetty18/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/gurushetty18/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/gurushetty18/LeetCode/tree/master/0268-missing-number) |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/gurushetty18/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/gurushetty18/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/gurushetty18/LeetCode/tree/master/0164-maximum-gap) |
+| [0169-majority-element](https://github.com/gurushetty18/LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/gurushetty18/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/gurushetty18/LeetCode/tree/master/0268-missing-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/gurushetty18/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -376,5 +379,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/gurushetty18/LeetCode/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/gurushetty18/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/gurushetty18/LeetCode/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/gurushetty18/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
