@@ -1,15 +1,7 @@
 class Solution {
     public boolean isPowerOfThree(int n) {
         if( n <= 0) return false;
-        long i = 1 ;
-        
-        while(i <= n){
-          if( i == n){
-
-            return true;
-          }
-          i = i * 3 ;
-        }
-        return false;
+        double res = Math.log10(n) / Math.log10(3) ;
+        return res % 1 == 0 ;
     }
 }
