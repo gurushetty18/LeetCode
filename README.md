@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0766-toeplitz-matrix](https://github.com/gurushetty18/LeetCode/tree/master/0766-toeplitz-matrix) |
 | [0860-lemonade-change](https://github.com/gurushetty18/LeetCode/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/gurushetty18/LeetCode/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/gurushetty18/LeetCode/tree/master/1140-stone-game-ii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/gurushetty18/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/gurushetty18/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/gurushetty18/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/gurushetty18/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0836-rectangle-overlap](https://github.com/gurushetty18/LeetCode/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/gurushetty18/LeetCode/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/gurushetty18/LeetCode/tree/master/1140-stone-game-ii) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/gurushetty18/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1360-number-of-days-between-two-dates](https://github.com/gurushetty18/LeetCode/tree/master/1360-number-of-days-between-two-dates) |
 | [1903-largest-odd-number-in-string](https://github.com/gurushetty18/LeetCode/tree/master/1903-largest-odd-number-in-string) |
@@ -89,18 +91,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/gurushetty18/LeetCode/tree/master/0139-word-break) |
 | [0877-stone-game](https://github.com/gurushetty18/LeetCode/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/gurushetty18/LeetCode/tree/master/0940-distinct-subsequences-ii) |
+| [1140-stone-game-ii](https://github.com/gurushetty18/LeetCode/tree/master/1140-stone-game-ii) |
 ## Minimax
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/gurushetty18/LeetCode/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/gurushetty18/LeetCode/tree/master/1140-stone-game-ii) |
 ## Game Theory
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/gurushetty18/LeetCode/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/gurushetty18/LeetCode/tree/master/1140-stone-game-ii) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/gurushetty18/LeetCode/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/gurushetty18/LeetCode/tree/master/1140-stone-game-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -275,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0525-contiguous-array](https://github.com/gurushetty18/LeetCode/tree/master/0525-contiguous-array) |
+| [1140-stone-game-ii](https://github.com/gurushetty18/LeetCode/tree/master/1140-stone-game-ii) |
 | [3903-smallest-stable-index-i](https://github.com/gurushetty18/LeetCode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/gurushetty18/LeetCode/tree/master/3904-smallest-stable-index-ii) |
 ## Tree
