@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1360-number-of-days-between-two-dates](https://github.com/gurushetty18/LeetCode/tree/master/1360-number-of-days-between-two-dates) |
 | [1903-largest-odd-number-in-string](https://github.com/gurushetty18/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [2396-strictly-palindromic-number](https://github.com/gurushetty18/LeetCode/tree/master/2396-strictly-palindromic-number) |
+| [3360-stone-removal-game](https://github.com/gurushetty18/LeetCode/tree/master/3360-stone-removal-game) |
 | [3870-count-commas-in-range](https://github.com/gurushetty18/LeetCode/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/gurushetty18/LeetCode/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/gurushetty18/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/gurushetty18/LeetCode/tree/master/0067-add-binary) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/gurushetty18/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2390-removing-stars-from-a-string](https://github.com/gurushetty18/LeetCode/tree/master/2390-removing-stars-from-a-string) |
+| [3360-stone-removal-game](https://github.com/gurushetty18/LeetCode/tree/master/3360-stone-removal-game) |
 ## Linked List
 |  |
 | ------- |
