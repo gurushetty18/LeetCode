@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/gurushetty18/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/gurushetty18/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/gurushetty18/LeetCode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/gurushetty18/LeetCode/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/gurushetty18/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/gurushetty18/LeetCode/tree/master/0283-move-zeroes) |
 | [0525-contiguous-array](https://github.com/gurushetty18/LeetCode/tree/master/0525-contiguous-array) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/gurushetty18/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/gurushetty18/LeetCode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/gurushetty18/LeetCode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/gurushetty18/LeetCode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/gurushetty18/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/gurushetty18/LeetCode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/gurushetty18/LeetCode/tree/master/0326-power-of-three) |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/gurushetty18/LeetCode/tree/master/0204-count-primes) |
 | [3483-unique-3-digit-even-numbers](https://github.com/gurushetty18/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Memoization
 |  |
@@ -405,4 +408,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/gurushetty18/LeetCode/tree/master/0169-majority-element) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/gurushetty18/LeetCode/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/gurushetty18/LeetCode/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/gurushetty18/LeetCode/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/gurushetty18/LeetCode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
