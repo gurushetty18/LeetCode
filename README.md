@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/gurushetty18/LeetCode/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/gurushetty18/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/gurushetty18/LeetCode/tree/master/0283-move-zeroes) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/gurushetty18/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0525-contiguous-array](https://github.com/gurushetty18/LeetCode/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/gurushetty18/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0766-toeplitz-matrix](https://github.com/gurushetty18/LeetCode/tree/master/0766-toeplitz-matrix) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/gurushetty18/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/gurushetty18/LeetCode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/gurushetty18/LeetCode/tree/master/0326-power-of-three) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/gurushetty18/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0633-sum-of-square-numbers](https://github.com/gurushetty18/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0836-rectangle-overlap](https://github.com/gurushetty18/LeetCode/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/gurushetty18/LeetCode/tree/master/0877-stone-game) |
