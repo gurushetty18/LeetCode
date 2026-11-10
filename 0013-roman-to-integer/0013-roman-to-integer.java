@@ -1,18 +1,18 @@
 class Solution {
     public int romanToInt(String s) {
-        int res = 0;
+        int fres = 0;
         int prevValue = 0;
 
         for (int i = s.length() - 1; i >= 0; i--) {
             int value = getValue(s.charAt(i));
             if (value < prevValue) {
-                res -= value;
+                fres -= value;
             } else {
-                res += value;
+                fres += value;
             }
             prevValue = value;
         }
-        return res;
+        return fres;
     }
 
     private int getValue(char c) {
