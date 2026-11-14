@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/gurushetty18/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/gurushetty18/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/gurushetty18/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3364-minimum-positive-sum-subarray](https://github.com/gurushetty18/LeetCode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3483-unique-3-digit-even-numbers](https://github.com/gurushetty18/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/gurushetty18/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/gurushetty18/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/gurushetty18/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/gurushetty18/LeetCode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [3364-minimum-positive-sum-subarray](https://github.com/gurushetty18/LeetCode/tree/master/3364-minimum-positive-sum-subarray) |
 ## Quicksort
 |  |
 | ------- |
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0525-contiguous-array](https://github.com/gurushetty18/LeetCode/tree/master/0525-contiguous-array) |
 | [1140-stone-game-ii](https://github.com/gurushetty18/LeetCode/tree/master/1140-stone-game-ii) |
+| [3364-minimum-positive-sum-subarray](https://github.com/gurushetty18/LeetCode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3903-smallest-stable-index-i](https://github.com/gurushetty18/LeetCode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/gurushetty18/LeetCode/tree/master/3904-smallest-stable-index-ii) |
 ## Tree
