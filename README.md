@@ -320,16 +320,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/gurushetty18/LeetCode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/gurushetty18/LeetCode/tree/master/0101-symmetric-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/gurushetty18/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/gurushetty18/LeetCode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/gurushetty18/LeetCode/tree/master/0101-symmetric-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/gurushetty18/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/gurushetty18/LeetCode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/gurushetty18/LeetCode/tree/master/0101-symmetric-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/gurushetty18/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Enumeration
 |  |
@@ -381,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/gurushetty18/LeetCode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/gurushetty18/LeetCode/tree/master/0101-symmetric-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/gurushetty18/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 ## Database
 |  |
